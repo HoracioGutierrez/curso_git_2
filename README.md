@@ -6,3 +6,6 @@
 
 2. Entrar a la carpeta :
 `cd curso_git_2`
+
+
+mas info en : [guia de markdown](https://www.markdownguide.org/basic-syntax/)
